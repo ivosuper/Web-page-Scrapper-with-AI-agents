@@ -1,0 +1,10 @@
+# BeautifulSoup for web scrapping
+beautifulsoup4==4.9.1
+# Pydantic AI for Agents
+pydantic==2.11.3
+pydantic-ai[anthropic]==0.0.53
+# Anthropic (for Claude 3.7)
+anthropic==0.49.0
+# Enviroment variables loading
+python-dotenv==1.1.0
+httpx
