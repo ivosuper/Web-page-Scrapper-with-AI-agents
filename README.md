@@ -32,9 +32,7 @@ Run the script without arguments, and it will prompt you for the URL:
 
 Paste the URL when prompted.
 
-## 3. Code Examples
-scrap.py: A basic example of direct web scraping using BeautifulSoup.<br>
-scrap_clean.py: An experimental script testing HTML cleaning techniques to reduce context and token usage for improved AI model performance. The goal is to provide the AI with a more concise and relevant input.
+## 3. Code Examples For scraping with BeautifulSoap
+**scrap.py:** A basic example of direct web scraping using BeautifulSoup.<br>
+**scrap_clean.py:** An experimental script testing HTML cleaning techniques to reduce context and token usage for improved AI model performance. The goal is to provide the AI with a more concise and relevant input.
 
-## 4. Experimental Code
-The trash directory contains incomplete and experimental code that was not fully implemented. Feel free to explore it, but be aware that it may not be functional.
